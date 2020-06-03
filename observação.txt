@@ -1,0 +1,1 @@
+- display-block faz com que os elemntos ocupe toda a linha, já o display-inline faz com que os elementos ocupe apenas o seu proprio tamanho.
