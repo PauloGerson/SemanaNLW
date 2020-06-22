@@ -11,7 +11,7 @@ function populateUFs(){
     .then( res => res.json() )
     .then( state => {
         ufselect.innerHTML = ufselect.innerHTML + ` <option value = "1"> Valor </option>`
-    } )
+    })
 }
 
 populateUFs()
